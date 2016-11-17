@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: Nichidai2016-picture
+  host: Nichidai2016-picture
+  disk_quota: 1024M
